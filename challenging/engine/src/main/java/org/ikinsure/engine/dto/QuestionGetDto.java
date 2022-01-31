@@ -1,27 +1,33 @@
-package org.ikinsure.engine;
-
-import com.fasterxml.jackson.annotation.JsonProperty;;
+package org.ikinsure.engine.dto;
 
 import java.util.List;
 
-public class Question {
+public class QuestionGetDto {
 
-    private int id;
+    private Integer id;
     private String title;
     private String text;
     private List<String> options;
-    @JsonProperty(access = JsonProperty.Access.WRITE_ONLY)
-    private List<Integer> answer;
 
-    public Question() {
+    public QuestionGetDto() {
 
     }
 
-    public int getId() {
+    public QuestionGetDto(Integer id,
+                          String title,
+                          String text,
+                          List<String> options) {
+        this.id = id;
+        this.title = title;
+        this.text = text;
+        this.options = options;
+    }
+
+    public Integer getId() {
         return id;
     }
 
-    public void setId(int id) {
+    public void setId(Integer id) {
         this.id = id;
     }
 
@@ -48,12 +54,5 @@ public class Question {
     public void setOptions(List<String> options) {
         this.options = options;
     }
-
-    public List<Integer> getAnswer() {
-        return answer;
-    }
-
-    public void setAnswer(List<Integer> answer) {
-        this.answer = answer;
-    }
 }
+
