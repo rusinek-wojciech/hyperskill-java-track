@@ -113,13 +113,13 @@ public class Utilities {
      */
     public static State getActualGameState(String board, int[][] wins) {
         if (checkWinner(Player.Side.X.sign, board, wins)) {
-            return State.X_WIN;
+            return State.WIN_X;
         } else if (checkWinner(Player.Side.O.sign, board, wins)) {
-            return State.O_WIN;
+            return State.WIN_O;
         } else if (isBoardBlocked(board)) {
             return State.DRAW;
         } else {
-            return State.PLAYING;
+            return State.PLAY;
         }
     }
 }

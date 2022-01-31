@@ -6,6 +6,18 @@ import java.util.Scanner;
 
 public class Main {
 
+    public static final String SEPARATOR = "|";
+    public static final String DELIMITER = " ";
+    public static final String BORDER = "-";
+    public static final int BOARD_SIZE = 2;
+
+//    public static void main(String[] args) {
+//        Scanner scanner = new Scanner(System.in);
+//        Game game = new Game(scanner, BOARD_SIZE);
+//        game.run();
+//    }
+
+
     private static final int[][] WIN_COMBINATIONS = {{0,1,2}, {3,4,5}, {6,7,8}, {0,3,6}, {1,4,7}, {2,5,8}, {0,4,8}, {2,4,6}};
     private static final Scanner INPUT = new Scanner(System.in); // input for user handler
     private static final String CLEAR = "         ";
@@ -17,15 +29,19 @@ public class Main {
 
     /** the main game loop */
     public static void main(String[] args) {
+
+
         do {
             enterCommand();
-            while (gameState == State.PLAYING) {
+
+            while (gameState == State.PLAY) {
                 showBoard();
                 makeMove();
                 gameState = Utilities.getActualGameState(board, WIN_COMBINATIONS);
             }
+
             clearBoard();
-            System.out.println(gameState.getDescription());
+            System.out.println(gameState.getMsg());
         } while (gameState != State.EXIT);
     }
 
@@ -58,7 +74,7 @@ public class Main {
                     try {
                         PLAYER_X.setMode(Player.Mode.valueOf(args[1].toUpperCase()));
                         PLAYER_O.setMode(Player.Mode.valueOf(args[2].toUpperCase()));
-                        gameState = State.PLAYING;
+                        gameState = State.PLAY;
                         done = true;
                     }
                     catch (Exception e) {
@@ -177,9 +193,9 @@ public class Main {
     /** minimax algorithm implementation */
     private static int minimax(Player player, String board, boolean isMaximizing) {
         switch (Utilities.getActualGameState(board, WIN_COMBINATIONS)) {
-            case X_WIN:
+            case WIN_X:
                 return (player.getSide() == Player.Side.X) ? 10 : -10;
-            case O_WIN:
+            case WIN_O:
                 return (player.getSide() == Player.Side.O) ? 10 : -10;
             case DRAW:
                 return 0;

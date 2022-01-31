@@ -4,19 +4,23 @@ package org.ikinsure.tictactoeai;
  * All possible states of Tic-Tac-Toe game
  */
 public enum State {
+
     START("Game is starting"),
     EXIT("Game is closing"),
-    PLAYING("Game not finished"),
+
+    PLAY("Game not finished"),
     DRAW("Draw"),
-    X_WIN("X wins"),
-    O_WIN("O wins");
+    WIN_X("X wins"),
+    WIN_O("O wins");
 
-    private final String description;
-    State(String description) {
-        this.description = description;
+    private final String msg;
+
+    State(String msg) {
+        this.msg = msg;
     }
 
-    public String getDescription() {
-        return description;
+    public String getMsg() {
+        return msg;
     }
+
 }
