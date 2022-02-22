@@ -84,4 +84,4 @@ Easy difficulty level:
    [Text Editor]: <challenging/editor>
    [Guess the Animal]: <challenging/animals>
    [Web Quiz Engine]: <challenging/engine>
-   [Account Service](https://github.com/iKinsure/hyperskill-account-service)
+   [Account Service]: https://github.com/iKinsure/hyperskill-account-service
