@@ -77,11 +77,11 @@ Easy difficulty level:
    [Simple Banking System]: <hard/banking>
    [Music Advisor]: <hard/advisor>
 
-   [Code Sharing Platform]: <challenging/platform>
-   [Contacts]: <challenging/contacts>
-   [JSON Database]: <challenging/jsondatabase>
-   [Blockchain]: <challenging/blockchain>
-   [Text Editor]: <challenging/editor>
-   [Guess the Animal]: <challenging/animals>
-   [Web Quiz Engine]: <challenging/engine>
+   [Code Sharing Platform]: https://github.com/iKinsure/hyperskill-java-track/tree/master/challenging/platform
+   [Contacts]: https://github.com/iKinsure/hyperskill-java-track/tree/master/challenging/contacts
+   [JSON Database]: https://github.com/iKinsure/hyperskill-java-track/tree/master/challenging/jsondatabase
+   [Blockchain]: https://github.com/iKinsure/hyperskill-java-track/tree/master/challenging/blockchain
+   [Text Editor]: https://github.com/iKinsure/hyperskill-java-track/tree/master/challenging/editor
+   [Guess the Animal]: https://github.com/iKinsure/hyperskill-java-track/tree/master/challenging/animals
+   [Web Quiz Engine]: https://github.com/iKinsure/hyperskill-java-track/tree/master/challenging/engine
    [Account Service]: https://github.com/iKinsure/hyperskill-account-service
