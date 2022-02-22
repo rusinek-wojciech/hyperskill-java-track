@@ -49,33 +49,33 @@ Easy difficulty level:
 
 
 
-   [Cinema Room Manager]: <easy/cinema>
-   [Bulls and Cows]: <easy/bullscows>
-   [Coffee Machine]: <easy/machine>
-   [Tic-Tac-Toe]: <easy/tictactoe>
-   [Simple Chatty Bot]: <easy/bot>
+   [Cinema Room Manager]: https://github.com/iKinsure/hyperskill-java-track/tree/master/easy/cinema
+   [Bulls and Cows]: https://github.com/iKinsure/hyperskill-java-track/tree/master/easy/bullscows
+   [Coffee Machine]: https://github.com/iKinsure/hyperskill-java-track/tree/master/easy/machine
+   [Tic-Tac-Toe]: https://github.com/iKinsure/hyperskill-java-track/tree/master/easy/tictactoe
+   [Simple Chatty Bot]: https://github.com/iKinsure/hyperskill-java-track/tree/master/easy/bot
    
-   [Battleship]: <medium/battleship>
-   [Encryption-Decryption]: <medium/encryptdecrypt>
-   [Numeric Matrix Processor]: <medium/processor>
-   [Game of Life]: <medium/life>
-   [Tic-Tac-Toe with AI]: <medium/tictactoeai>
-   [Readability Score]: <medium/readability>
-   [Error Correcting Encoder-Decoder]: <medium/correcter>
-   [Numeral System Converter]: <medium/converter>
+   [Battleship]: https://github.com/iKinsure/hyperskill-java-track/tree/master/medium/battleship
+   [Encryption-Decryption]: https://github.com/iKinsure/hyperskill-java-track/tree/master/medium/encryptdecrypt
+   [Numeric Matrix Processor]: https://github.com/iKinsure/hyperskill-java-track/tree/master/medium/processor
+   [Game of Life]: https://github.com/iKinsure/hyperskill-java-track/tree/master/medium/life
+   [Tic-Tac-Toe with AI]: https://github.com/iKinsure/hyperskill-java-track/tree/master/medium/tictactoeai
+   [Readability Score]: https://github.com/iKinsure/hyperskill-java-track/tree/master/medium/readability
+   [Error Correcting Encoder-Decoder]: https://github.com/iKinsure/hyperskill-java-track/tree/master/medium/correcter
+   [Numeral System Converter]: https://github.com/iKinsure/hyperskill-java-track/tree/master/medium/converter
    
-   [Phone Book]: <hard/phonebook>
-   [Budget Manager]: <hard/budget>
-   [Smart Calculator]: <hard/calculator>
-   [Sorting Tool]: <hard/sorting>
-   [Simple Search Engine]: <hard/search>
-   [Maze Runner]: <hard/maze>
-   [Flashcards]: <hard/flashcards>
-   [Linear Equation Solver]: <hard/solver>
-   [Minesweeper]: <hard/minesweeper>
-   [Digit Recognition]: <hard/recognition>
-   [Simple Banking System]: <hard/banking>
-   [Music Advisor]: <hard/advisor>
+   [Phone Book]: https://github.com/iKinsure/hyperskill-java-track/tree/master/hard/phonebook
+   [Budget Manager]: https://github.com/iKinsure/hyperskill-java-track/tree/master/hard/budget
+   [Smart Calculator]: https://github.com/iKinsure/hyperskill-java-track/tree/master/hard/calculator
+   [Sorting Tool]: https://github.com/iKinsure/hyperskill-java-track/tree/master/hard/sorting
+   [Simple Search Engine]: https://github.com/iKinsure/hyperskill-java-track/tree/master/hard/search
+   [Maze Runner]: https://github.com/iKinsure/hyperskill-java-track/tree/master/hard/maze
+   [Flashcards]: https://github.com/iKinsure/hyperskill-java-track/tree/master/hard/flashcards
+   [Linear Equation Solver]: https://github.com/iKinsure/hyperskill-java-track/tree/master/hard/solver
+   [Minesweeper]: https://github.com/iKinsure/hyperskill-java-track/tree/master/hard/minesweeper
+   [Digit Recognition]: https://github.com/iKinsure/hyperskill-java-track/tree/master/hard/recognition
+   [Simple Banking System]: https://github.com/iKinsure/hyperskill-java-track/tree/master/hard/banking
+   [Music Advisor]: https://github.com/iKinsure/hyperskill-java-track/tree/master/hard/advisor
 
    [Code Sharing Platform]: https://github.com/iKinsure/hyperskill-java-track/tree/master/challenging/platform
    [Contacts]: https://github.com/iKinsure/hyperskill-java-track/tree/master/challenging/contacts
