@@ -14,6 +14,7 @@ Challenging difficulty level:
 - [Text Editor] - java swing text editor
 - [Guess the Animal] - interactive game where computer will try to guess the animal
 - [Web Quiz Engine] - multi-users web service for creating solving quizzes
+- [Account Service] - platform based on spring security
 
 Hard difficulty level:
 - [Phone Book] - searching and sorting benchmark
@@ -83,3 +84,4 @@ Easy difficulty level:
    [Text Editor]: <challenging/editor>
    [Guess the Animal]: <challenging/animals>
    [Web Quiz Engine]: <challenging/engine>
+   [Account Service](https://github.com/iKinsure/hyperskill-account-service)
