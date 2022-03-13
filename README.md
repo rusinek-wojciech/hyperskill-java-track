@@ -39,6 +39,7 @@ Medium difficulty level:
 - [Readability Score] - text difficulty
 - [Error Correcting Encoder-Decoder] - binary cipher simulation
 - [Numeral System Converter] - change number radix
+- [Amazing Numbers] - indicates properties of numbers taken from the input
 
 Easy difficulty level:
   - [Cinema Room Manager] - reserve your sit ✔ 💎
@@ -63,6 +64,7 @@ Easy difficulty level:
    [Readability Score]: https://github.com/iKinsure/hyperskill-java-track/tree/master/medium/readability
    [Error Correcting Encoder-Decoder]: https://github.com/iKinsure/hyperskill-java-track/tree/master/medium/correcter
    [Numeral System Converter]: https://github.com/iKinsure/hyperskill-java-track/tree/master/medium/converter
+   [Amazing Numbers]: https://github.com/iKinsure/hyperskill-amazing-numbers
    
    [Phone Book]: https://github.com/iKinsure/hyperskill-java-track/tree/master/hard/phonebook
    [Budget Manager]: https://github.com/iKinsure/hyperskill-java-track/tree/master/hard/budget
