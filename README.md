@@ -1,4 +1,4 @@
-# java-with-jetbrains
+# hyperskill-java-track-projects
 
 This repository contains all java developer track projects created while learning.
 * refactored and tested ✔
