@@ -1,4 +1,4 @@
-# hyperskill-java-track-projects
+# Hyperskill Java Track Projects
 
 This repository contains all java developer track projects created while learning.
 * refactored and tested ✔
@@ -51,6 +51,10 @@ Easy difficulty level:
   - [Tic-Tac-Toe] - player vs player game ✔
   - [Simple Chatty Bot] - basic chatty bot ✔
   - [Zookeeper] - basics of console
+
+# Important update
+Changed git strategy from monorepo to polyrepo.
+Each project has his own repository.
 
 
 <!-- easy -->
