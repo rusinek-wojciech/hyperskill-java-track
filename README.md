@@ -52,7 +52,7 @@ Easy difficulty level:
   - [Simple Chatty Bot] - basic chatty bot ✔
   - [Zookeeper] - basics of console
 
-# Important update
+## Important update
 Changed git strategy from monorepo to polyrepo.
 Each project has his own repository.
 
