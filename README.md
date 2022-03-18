@@ -3,6 +3,7 @@
 This repository contains all java developer track projects created while learning.
 * refactored and tested ✔
 * worth to see 💎
+* in progress 🚧
 
 ### List of projects
 
@@ -13,7 +14,7 @@ Challenging difficulty level:
 - [Blockchain] - implementation of basic blockchain
 - [Text Editor] - java swing text editor
 - [Guess the Animal] - interactive game where computer will try to guess the animal
-- [Web Quiz Engine] - multi-users web service for creating solving quizzes
+- [Web Quiz Engine] - multi-users web service for creating solving quizzes 🚧
 - [Account Service] - platform based on spring security 💎
 
 Hard difficulty level:
@@ -26,10 +27,10 @@ Hard difficulty level:
 - [Flashcards] - memorize with possibility to save progress
 - [Linear Equation Solver] - uses Gauss elimination, works with complex numbers
 - [Minesweeper] - classic game
-- [Digit Recognition] - machine learning
+- [Digit Recognition] - machine learning 🚧
 - [Simple Banking System] - with SQLite
 - [Music Advisor] - spotify API
-- [Learning Progress Tracker] - tool for learning
+- [Learning Progress Tracker] - tool for learning 🚧
 
 Medium difficulty level:
 - [Battleship] - classic game
