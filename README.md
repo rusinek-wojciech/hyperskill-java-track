@@ -37,7 +37,7 @@ Medium difficulty level:
 - [Encryption-Decryption] - encrypt and decrypt message
 - [Numeric Matrix Processor] - basic matrix operations ✔ 💎
 - [Game of Life] - java swing app
-- [Tic-Tac-Toe with AI] - AI uses minimax algorithm
+- [Tic-Tac-Toe with AI] - AI uses minimax algorithm 🚧
 - [Readability Score] - text difficulty
 - [Error Correcting Encoder-Decoder] - binary cipher simulation
 - [Numeral System Converter] - change number radix
