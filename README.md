@@ -54,7 +54,7 @@ Easy difficulty level:
 
 ## Important update
 Changed git strategy from monorepo to polyrepo.
-Each project has his own repository.
+Each project has its own repository.
 
 
 <!-- easy -->
