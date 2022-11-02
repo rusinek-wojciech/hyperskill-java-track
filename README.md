@@ -58,46 +58,46 @@ Each project has its own repository.
 
 
 <!-- easy -->
-   [Cinema Room Manager]: https://github.com/iKinsure/hyperskill-java-cinema-room-manager
-   [Bulls and Cows]: https://github.com/iKinsure/hyperskill-java-bulls-and-cows
-   [Coffee Machine]: https://github.com/iKinsure/hyperskill-java-coffee-machine
-   [Tic-Tac-Toe]: https://github.com/iKinsure/hyperskill-java-tic-tac-toe
-   [Simple Chatty Bot]: https://github.com/iKinsure/hyperskill-java-simple-chatty-bot
-   [Zookeeper]: https://github.com/iKinsure/hyperskill-java-zookeeper
+   [Cinema Room Manager]: https://github.com/rusinek-wojciech/hyperskill-java-cinema-room-manager
+   [Bulls and Cows]: https://github.com/rusinek-wojciech/hyperskill-java-bulls-and-cows
+   [Coffee Machine]: https://github.com/rusinek-wojciech/hyperskill-java-coffee-machine
+   [Tic-Tac-Toe]: https://github.com/rusinek-wojciech/hyperskill-java-tic-tac-toe
+   [Simple Chatty Bot]: https://github.com/rusinek-wojciech/hyperskill-java-simple-chatty-bot
+   [Zookeeper]: https://github.com/rusinek-wojciech/hyperskill-java-zookeeper
    
 <!-- medium -->
-   [Battleship]: https://github.com/iKinsure/hyperskill-java-battleship
-   [Encryption-Decryption]: https://github.com/iKinsure/hyperskill-java-encryption-decryption
-   [Numeric Matrix Processor]: https://github.com/iKinsure/hyperskill-java-numeric-matrix-processor
-   [Game of Life]: https://github.com/iKinsure/hyperskill-java-game-of-life
-   [Tic-Tac-Toe with AI]: https://github.com/iKinsure/hyperskill-java-tic-tac-toe-with-ai
-   [Readability Score]: https://github.com/iKinsure/hyperskill-java-readability-score
-   [Error Correcting Encoder-Decoder]: https://github.com/iKinsure/hyperskill-java-error-correcting-encoder-decoder
-   [Numeral System Converter]: https://github.com/iKinsure/hyperskill-java-numeral-system-converter
-   [Amazing Numbers]: https://github.com/iKinsure/hyperskill-java-amazing-numbers
-   [Number Base Converter]: https://github.com/iKinsure/hyperskill-java-number-base-converter
+   [Battleship]: https://github.com/rusinek-wojciech/hyperskill-java-battleship
+   [Encryption-Decryption]: https://github.com/rusinek-wojciech/hyperskill-java-encryption-decryption
+   [Numeric Matrix Processor]: https://github.com/rusinek-wojciech/hyperskill-java-numeric-matrix-processor
+   [Game of Life]: https://github.com/rusinek-wojciech/hyperskill-java-game-of-life
+   [Tic-Tac-Toe with AI]: https://github.com/rusinek-wojciech/hyperskill-java-tic-tac-toe-with-ai
+   [Readability Score]: https://github.com/rusinek-wojciech/hyperskill-java-readability-score
+   [Error Correcting Encoder-Decoder]: https://github.com/rusinek-wojciech/hyperskill-java-error-correcting-encoder-decoder
+   [Numeral System Converter]: https://github.com/rusinek-wojciech/hyperskill-java-numeral-system-converter
+   [Amazing Numbers]: https://github.com/rusinek-wojciech/hyperskill-java-amazing-numbers
+   [Number Base Converter]: https://github.com/rusinek-wojciech/hyperskill-java-number-base-converter
    
 <!-- hard -->
-   [Phone Book]: https://github.com/iKinsure/hyperskill-java-phone-book
-   [Budget Manager]: https://github.com/iKinsure/hyperskill-java-budget-manager
-   [Smart Calculator]: https://github.com/iKinsure/hyperskill-java-smart-calculator
-   [Sorting Tool]: https://github.com/iKinsure/hyperskill-java-sorting-tool
-   [Simple Search Engine]: https://github.com/iKinsure/hyperskill-java-simple-search-engine
-   [Maze Runner]: https://github.com/iKinsure/hyperskill-java-maze-runner
-   [Flashcards]: https://github.com/iKinsure/hyperskill-java-flashcards
-   [Linear Equation Solver]: https://github.com/iKinsure/hyperskill-java-linear-equation-solver
-   [Minesweeper]: https://github.com/iKinsure/hyperskill-java-minesweeper
-   [Digit Recognition]: https://github.com/iKinsure/hyperskill-java-digit-recognition
-   [Simple Banking System]: https://github.com/iKinsure/hyperskill-java-simple-banking-system
-   [Music Advisor]: https://github.com/iKinsure/hyperskill-java-music-advisor
-   [Learning Progress Tracker]: https://github.com/iKinsure/hyperskill-java-learning-progress-tracker
+   [Phone Book]: https://github.com/rusinek-wojciech/hyperskill-java-phone-book
+   [Budget Manager]: https://github.com/rusinek-wojciech/hyperskill-java-budget-manager
+   [Smart Calculator]: https://github.com/rusinek-wojciech/hyperskill-java-smart-calculator
+   [Sorting Tool]: https://github.com/rusinek-wojciech/hyperskill-java-sorting-tool
+   [Simple Search Engine]: https://github.com/rusinek-wojciech/hyperskill-java-simple-search-engine
+   [Maze Runner]: https://github.com/rusinek-wojciech/hyperskill-java-maze-runner
+   [Flashcards]: https://github.com/rusinek-wojciech/hyperskill-java-flashcards
+   [Linear Equation Solver]: https://github.com/rusinek-wojciech/hyperskill-java-linear-equation-solver
+   [Minesweeper]: https://github.com/rusinek-wojciech/hyperskill-java-minesweeper
+   [Digit Recognition]: https://github.com/rusinek-wojciech/hyperskill-java-digit-recognition
+   [Simple Banking System]: https://github.com/rusinek-wojciech/hyperskill-java-simple-banking-system
+   [Music Advisor]: https://github.com/rusinek-wojciech/hyperskill-java-music-advisor
+   [Learning Progress Tracker]: https://github.com/rusinek-wojciech/hyperskill-java-learning-progress-tracker
 
 <!-- challenging -->
-   [Code Sharing Platform]: https://github.com/iKinsure/hyperskill-java-code-sharing-platform
-   [Contacts]: https://github.com/iKinsure/hyperskill-java-contacts
-   [JSON Database]: https://github.com/iKinsure/hyperskill-java-json-database
-   [Blockchain]: https://github.com/iKinsure/hyperskill-java-blockchain
-   [Text Editor]: https://github.com/iKinsure/hyperskill-java-text-editor
-   [Guess the Animal]: https://github.com/iKinsure/hyperskill-java-guess-the-animal
-   [Web Quiz Engine]: https://github.com/iKinsure/hyperskill-java-web-quiz-engine
-   [Account Service]: https://github.com/iKinsure/hyperskill-java-account-service
+   [Code Sharing Platform]: https://github.com/rusinek-wojciech/hyperskill-java-code-sharing-platform
+   [Contacts]: https://github.com/rusinek-wojciech/hyperskill-java-contacts
+   [JSON Database]: https://github.com/rusinek-wojciech/hyperskill-java-json-database
+   [Blockchain]: https://github.com/rusinek-wojciech/hyperskill-java-blockchain
+   [Text Editor]: https://github.com/rusinek-wojciech/hyperskill-java-text-editor
+   [Guess the Animal]: https://github.com/rusinek-wojciech/hyperskill-java-guess-the-animal
+   [Web Quiz Engine]: https://github.com/rusinek-wojciech/hyperskill-java-web-quiz-engine
+   [Account Service]: https://github.com/rusinek-wojciech/hyperskill-java-account-service
